@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.left{
+    position: fixed;
+    width: 60%;
+}
+.left img{
+    width: 70%;
+}
+.right{
+    padding: 32px 0;
+    margin: 0 0 0 650px;
+}
+.right .icon{
+    position: fixed;
+    font-size: 50px;
+    top: -3px;
+    margin-left: 826px;
+}
+.right .icon i{
+    background-color: #fff;
+}
+.header a{
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 30px;
+    display: inline-block;
+    background-color: #f1e6e6;
+}
+.header3 a{
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 20px;
+    display: inline-block;
+    background-color: #f1e6e6;
+}
+.header3 h2{
+padding: 3rem 0 1rem 0;
+}
+.header3 p{
+    padding: 15px 0;
+}
+.header2 h1{
+    padding-top: 120px;
+    padding-bottom: 30px;
+}
+.header{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 30px;
+}
+.jane{
+    font-size: 80px;
+}
+.head{
+    width: 100%;
+}
+.img img{
+    width: 95%;
+}
+.port{
+    display: flex;
+    justify-content: center;
+}
+.header4 img{
+    width: 100%;
+}
+.header3 h3{
+    padding: 25px 0;
+    font-size: 40px;
+}
+.me{
+    text-align: center;
+    color: #fff;
+    background-color: rgb(220, 217, 223);
+}
+.me1, .me2, .me3{
+    font-size: 20px;
+    padding-top: 10px;
+}
+.me .me1{
+    width: 95%;
+    height: 40px;
+    background-color:#616161; 
+}
+.me .me2{
+    width: 85%;
+    height: 40px;
+    background-color: #616161;
+}
+.me .me3{
+    width: 80%;
+    height: 40px;
+    background-color: #616161;
+}
+.mee{
+    display: flex;
+    height: 130px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+    background-color: #616161;
+    justify-content: space-around;
+}
+.mee .mee1{
+    font-size: 20px;
+    background-color:#616161;
+}
+.mee .mee1 h5{
+    font-size: 25px;
+}
+.header3 h4{
+    padding: 20px 0;
+    font-size: 40px;
+}
+.ram1{
+    display: flex;
+}
+.rama {
+    width: 20%;
+}
+.rama img {
+    width: 70%;
+    border-radius: 50%;
+}
+.ramaya span{
+    font-size: 20px;
+}
+.header3 h6{
+    padding: 30px 0;
+    font-size: 30px;
+}
+.sita{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    font-size: 20px;
+}
+.love ul li, .kush ul li{
+    list-style: none;
+    border: 1px solid black;
+    width: 400px;
+}
+.love ul li:first-of-type{
+    font-size: 40px;
+    color: #fff;
+    background-color: #616161;
+}
+.kush ul li:first-of-type{
+    font-size: 40px;
+    color: #fff;
+    background-color: #000;
+}
+.love ul li:last-of-type,.kush ul li:last-of-type{
+    font-size: 20px;
+    color: #000;
+    background-color: #cbc6c6;
+}
+.love ul li a, .kush ul li a{
+    background-color: #fff;
+    margin: 10px;
+    height: 60px;
+}
+.kush{
+    margin-right: 10px;
+}
+.header4 h2{
+   padding: 30px 0;
+}
+.header4 .jeetu p{
+   padding: 10px 0;
+}
+.header4 .jeetu i{
+    padding-right: 10px;
+}
+.header4 img{
+    padding: 30px 0;
+}
+form input{
+    width: 95%;
+    height: 50px;
+    padding: 1rem 0;
+    margin: 20px 0 ;
+}
+form a{
+    text-decoration: none;
+    padding: 15px;
+    margin-bottom: 20px;
+    display: inline-block;
+    background-color: #f1e6e6;
+}
+footer{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    background-color: #dcd8d8;
+}
+footer i{
+    font-size: 30px;
+    margin-top: 80px;
+}
+footer p{
+    margin-top: 10px;
+    font-size: 20px;
+}
