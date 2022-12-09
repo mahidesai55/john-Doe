@@ -5,10 +5,11 @@
 }
 .left{
     position: fixed;
-    width: 60%;
+    left: 0;
+    width: 42%;
 }
 .left img{
-    width: 70%;
+    width: 100%;
 }
 .right{
     padding: 32px 0;
@@ -30,6 +31,12 @@
     display: inline-block;
     background-color: #f1e6e6;
 }
+.header a i{
+    padding: 5px;
+}
+.header3 a i{
+    padding: 5px;
+}
 .header3 a{
     text-decoration: none;
     padding: 15px;
@@ -38,14 +45,18 @@
     background-color: #f1e6e6;
 }
 .header3 h2{
-padding: 3rem 0 1rem 0;
+   padding: 3rem 0 1rem 0;
+   font-size: 40px;
 }
 .header3 p{
     padding: 15px 0;
+    width: 96%;
+    font-size: 20px;
 }
 .header2 h1{
     padding-top: 120px;
     padding-bottom: 30px;
+    font-size: 45px;
 }
 .header{
     text-align: center;
@@ -66,13 +77,14 @@ padding: 3rem 0 1rem 0;
     justify-content: center;
 }
 .header4 img{
-    width: 100%;
+    width: 99%;
 }
 .header3 h3{
     padding: 25px 0;
     font-size: 40px;
 }
 .me{
+    width: 99%;
     text-align: center;
     color: #fff;
     background-color: rgb(220, 217, 223);
@@ -98,6 +110,7 @@ padding: 3rem 0 1rem 0;
 }
 .mee{
     display: flex;
+    width: 99%;
     height: 130px;
     text-align: center;
     align-items: center;
@@ -144,6 +157,11 @@ padding: 3rem 0 1rem 0;
     list-style: none;
     border: 1px solid black;
     width: 400px;
+    height: 85px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .love ul li:first-of-type{
     font-size: 40px;
@@ -172,9 +190,11 @@ padding: 3rem 0 1rem 0;
    padding: 30px 0;
 }
 .header4 .jeetu p{
+    font-size: 20px;
    padding: 10px 0;
 }
 .header4 .jeetu i{
+    font-size: 25px;
     padding-right: 10px;
 }
 .header4 img{
@@ -183,7 +203,7 @@ padding: 3rem 0 1rem 0;
 form input{
     width: 95%;
     height: 50px;
-    padding: 1rem 0;
+    padding: 1rem 10px;
     margin: 20px 0 ;
 }
 form a{
@@ -193,17 +213,24 @@ form a{
     display: inline-block;
     background-color: #f1e6e6;
 }
+form a i{
+    padding-right: 10px;
+}
 footer{
-    width: 100%;
+    width: 99%;
     height: 200px;
     text-align: center;
     background-color: #dcd8d8;
 }
 footer i{
+    padding: 0 5px;
     font-size: 30px;
     margin-top: 80px;
 }
 footer p{
     margin-top: 10px;
+    font-size: 20px;
+}
+.mahi p{
     font-size: 20px;
 }
